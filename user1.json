@@ -1,9 +1,15 @@
 {
-    "name": "Dave",
-    "favoriteNum": 2342,
-    "isProgrammer": false,
+    "name": "Fuad",
+    "favoriteNum": 13,
+    "isProgrammer": true,
     "hobbies": [
         "Surf",
+        "Camp",
         "Bike"
-    ]
+    ],
+    "position": {
+        "x": 3175.299560546875,
+        "y": 223.5825653076172,
+        "z": 317.59576416015627
+    }
 }
