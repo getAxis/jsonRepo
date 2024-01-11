@@ -1,8 +1,9 @@
 {
-    "name": "Jhon",
-    "favoriteNum": 13,
-    "isProgrammer": true,
+    "name": "Dave",
+    "favoriteNum": 2342,
+    "isProgrammer": false,
     "hobbies": [
-        "Surf"
+        "Surf",
+        "Bike"
     ]
 }
